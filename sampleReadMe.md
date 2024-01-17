@@ -1,8 +1,43 @@
-{"title":"MLK",
-"description":"Page to conmemorate MLK day. Contains all kinds of links to pages and quotes from Dr. King.","instructions":"plug and play",
-"usage":"Go to site and enjoy, click to read more or share.",
-"contribution":"Not accepting any contributions at this time.",
-"test":"Go to link.",
-"license":"MIT",
-"github":"ariSof",
-"email":"sofiaboubion@gmail.com"}
+# Practice Piano
+
+  ![License_Badge](https://img.shields.io/badge/license-ISC-blue.svg)
+
+  ## Description
+  
+  A webpage that keeps track of piano practice.
+  
+  ## Table of Contents
+  [Installation](#installation) 
+
+  [Usage](#usage) 
+
+  [Contrubution_Guidelines](#contrubution-guidelines)
+
+  [Test_instructions](#test-instructions)
+
+  [License](#license)
+  
+  
+  ## Installation
+  
+  n/a
+  
+  ## Usage
+  
+  Go to page
+
+  ## Test Instructions
+ 
+  Go to page
+  
+  ## Contrubution Guidelines
+  
+ None at this time
+  
+  ## License
+  
+  ISC 
+  
+  ## Questions
+  [GitHub](https://github.com/pianoFan) 
+  [email](email:pianoFan@yahoo.com)
