@@ -1,43 +1,44 @@
-# Practice Piano
+# ReadMe Generator
 
   ![License_Badge](https://img.shields.io/badge/license-ISC-blue.svg)
 
   ## Description
   
-  A webpage that keeps track of piano practice.
+  Command prompt readme file generator.
   
   ## Table of Contents
-  [Installation](#installation) 
+  - [Installation](#installation) 
 
-  [Usage](#usage) 
+  - [Usage](#usage) 
 
-  [Contrubution_Guidelines](#contrubution-guidelines)
+  - [Contrubution_Guidelines](#contrubution-guidelines)
 
-  [Test_instructions](#test-instructions)
+  - [Test_instructions](#test-instructions)
 
-  [License](#license)
+  - [License](#license)
   
   
   ## Installation
   
-  n/a
+  node index.js
   
   ## Usage
   
-  Go to page
+  run node index.js and answer questions in the prompt
 
   ## Test Instructions
  
-  Go to page
+  check for sampleReadMe.md
   
   ## Contrubution Guidelines
   
- None at this time
+ None at this time.
   
   ## License
   
   ISC 
   
   ## Questions
-  [GitHub](https://github.com/pianoFan) 
-  [email](email:pianoFan@yahoo.com)
+  [GitHub](https://github.com/ariSof) 
+
+  For Additional questions email me at [sofiaboubioin@gmail.com](mailto:sofiaboubioin@gmail.com)
