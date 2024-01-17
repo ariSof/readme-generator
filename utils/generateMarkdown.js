@@ -24,11 +24,11 @@ function generateMarkdown(data) {
   ${data.description}
   
   ## Table of Contents
-  [Installation](#installation) \n
-  [Usage](#usage) \n
-  [Contrubution_Guidelines](#contrubution-guidelines)\n
-  [Test_instructions](#test-instructions)\n
-  [License](#license)
+  - [Installation](#installation) \n
+  - [Usage](#usage) \n
+  - [Contrubution_Guidelines](#contrubution-guidelines)\n
+  - [Test_instructions](#test-instructions)\n
+  - [License](#license)
   
   
   ## Installation
@@ -52,8 +52,8 @@ function generateMarkdown(data) {
   ${data.license} 
   
   ## Questions
-  [GitHub](https://github.com/${data.github}) 
-  [email](email:${data.email})`
+  [GitHub](https://github.com/${data.github}) \n
+  For Additional questions email me at [${data.email}](mailto:${data.email})`
   
   return  readMeText;
   
