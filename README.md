@@ -28,7 +28,7 @@
 
   ## Test Instructions
  
-  Check the readMe file generated.
+  Check the readMe file is generated.
   
   ## License
   

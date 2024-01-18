@@ -18,7 +18,7 @@ function writeToFile(fileName, data) {
         );
 }
 
-// Function to initialize app
+// Function to initialize app with inquirer prompts
 function init() {
 
     inquirer
